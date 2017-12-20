@@ -7,11 +7,11 @@ import re
 import sys
 import os
 
-#arg1 = 'tweet_kotor.csv'
-#arg2 = 'tweet_bersih.csv'
+arg1 = 'tweet_kotor.csv'
+arg2 = 'tweet_bersih.csv'
 
-arg1 = sys.argv[1]
-arg2 = sys.argv[2]
+# arg1 = sys.argv[1]
+# arg2 = sys.argv[2]
 
 
 def processtweet(tweet):
